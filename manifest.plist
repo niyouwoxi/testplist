@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.putao.theocean.cn</string>
+				<string> com.magiccube.putao.cn</string>
 				<key>bundle-version</key>
-				<string>1.0.3</string>
+				<string>1.2.9</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>

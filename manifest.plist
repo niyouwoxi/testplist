@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.file.putaocdn.com/largefile/b70d98f3dc5e765fe99e511a3227f6a49e930c1e</string>
+					<string>http://10.172.99.12/test/test.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.magiccube.putao.cn</string>
+				<string>com.putao.block</string>
 				<key>bundle-version</key>
-				<string>1.2.9</string>
+				<string>2.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>cn</string>
+				<string>葡萄积木</string>
 			</dict>
 		</dict>
 	</array>
